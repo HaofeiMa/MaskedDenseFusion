@@ -12,7 +12,7 @@ I have implemented a 6D pose estimation method for objects based on RGBD informa
 
 # 2. Demo and Performance
 
-https://user-images.githubusercontent.com/49356049/232419809-fe899a21-65b7-4430-8c8e-c46175635143.mp4
+![MaskedDenseFusion_Demo](https://user-images.githubusercontent.com/49356049/232421669-bd1aaed1-bf55-4855-aaef-a7f70e5db163.gif)
 
 # 3. Acknowledgements
 
