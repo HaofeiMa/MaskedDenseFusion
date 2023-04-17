@@ -1,0 +1,4 @@
+# ninja log v5
+1	1078	1676295646134842083	/home/huffie/Documents/PoseEstimation/DenseFusion-1/lib/knn/build/temp.linux-x86_64-3.6/home/huffie/Documents/PoseEstimation/DenseFusion-1/lib/knn/src/cuda/knn.o	3e181e3d6bcf065d
+0	14149	1676295659202625523	/home/huffie/Documents/PoseEstimation/DenseFusion-1/lib/knn/build/temp.linux-x86_64-3.6/home/huffie/Documents/PoseEstimation/DenseFusion-1/lib/knn/src/cpu/knn_cpu.o	40cfa1b4123efe1f
+0	23140	1676295668182479244	/home/huffie/Documents/PoseEstimation/DenseFusion-1/lib/knn/build/temp.linux-x86_64-3.6/home/huffie/Documents/PoseEstimation/DenseFusion-1/lib/knn/src/vision.o	65f02b031209b6c6

@@ -1,0 +1,1 @@
+{"NVIDIA GeForce MX150": {"performance": {"1": {"maskrcnn": [[1.05, 2.08], [1.01, 1.98], [1.05, 2.18], [0.89, 1.38], [1.05, 1.98], [1.04, 1.97]]}}, "properties": {"capability": [6, 1], "name": "NVIDIA GeForce MX150", "sm_count": 3, "total_momory": 3.95}}}
